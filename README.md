@@ -1,0 +1,3 @@
+# Chess-in-Java
+I attempt to recreate chess in java. moo
+Probably will make an AI for it. Who knows...
